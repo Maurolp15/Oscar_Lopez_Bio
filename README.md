@@ -8,4 +8,4 @@ I have an AA degree in Architecture, I'm currently a project Manager in the Real
 I'm looking to change my career path into coding, learn coding system and moved into development, cryptocurrency and blackchain
 
 ## Why did you choose FinTech as a career path?
-I believe technology is the present and the future, it will be will be integrated in every area and aspect of the world. I would like to be part of the development. 
+I believe technology is the present and the future, it will be will be integrated in every area and aspect of the world and I  would love to be part of the development. 
