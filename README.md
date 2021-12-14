@@ -2,7 +2,8 @@
 
 ## Who are you? What is your background?
 My name is Oscar Lopez, I was born in Colombia and moved to Miami when I was 12 years old. 
-I have an AA degree in Architecture, I'm currently a project Manager in the Real Estate filed, have a Real Estate license and a PM certificate from PMI
+
+I'm currently a project Manager for a Real Estate developer, I have an AA degree in Architecture, I also have a Real Estate license and a PM certificate from PMI
 
 ## What are your career goals?
 I'm looking to change my career path into coding, learn coding system and moved into development, cryptocurrency and blackchain
